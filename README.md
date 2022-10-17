@@ -3,10 +3,10 @@ Product-Management-System<br/>
 #Demo<br/>
  https://mohamed53-53.github.io/Product-Management-System/
  
- ما هو ال CRUD<br/>
+ ما هو ال CRUDS<br/>
 
 
-كلمة crud تمثل<br/>
+كلمة cruds تمثل<br/>
 
 C  تمثل CREATE<br/>
 R  تمثل READ<br/>
